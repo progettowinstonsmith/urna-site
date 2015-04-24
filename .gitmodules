@@ -1,0 +1,3 @@
+[submodule "urna-site-output"]
+	path = urna-site-output
+	url = https://github.com/progettowinstonsmith/urna-site-output
