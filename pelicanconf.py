@@ -6,7 +6,7 @@ AUTHOR = u'Winston Smith'
 SITENAME = u'URNA'
 SITEURL = ''
 
-SITESUBTITLE = u'<a href="http://urna.winstonsmit.org/" >URNA&rarr;</a> conserva le<br/>cose a cui<br/>Winston Smith<br/>tiene'
+SITESUBTITLE = u'<a href="/" >URNA&rarr;</a> conserva le<br/>cose a cui<br/>Winston Smith<br/>tiene'
 
 PATH = 'content'
 

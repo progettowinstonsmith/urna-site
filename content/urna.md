@@ -1,4 +1,4 @@
-Title: Urna — il magico repository di Winston Smith
+Title: Urna — il solido di Winston Smith
 Date: 2015-04-24 10:20
 lang: it
 
@@ -17,9 +17,4 @@ A Winston Smith non piaccono i CMS ed usa solo siti statici. Ha scelto una tecno
 
 - [Attivazione di un sottosistema pelican/markdown](/urna-pmgc-attivazione-di-un-sottosistema-pelicanmarkdown.html)
 - [Come modificare una pagina di un sito PMGC](/urna-pgmc-come-modificare-un-sito-winston-smith.html)
-
-
-
-
-
-
+- [Come pubblicare un sito PMGC su Casellante](/urna-pgmc-come-pubblicare-un-sito-winston-smith.html)
