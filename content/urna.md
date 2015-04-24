@@ -1,4 +1,4 @@
-Title: Urna — il solido di Winston Smith
+Title: Urna — il solido ripostiglio di Winston Smith
 Date: 2015-04-24 10:20
 lang: it
 
