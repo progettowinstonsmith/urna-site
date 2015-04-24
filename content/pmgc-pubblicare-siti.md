@@ -15,7 +15,7 @@ In questo caso:
 
 ## Se hai accesso a Casellante
 
-(ed hai pure particolare fretta tanto da non voler attenere l'aggiornamento periodico)
+(ed hai pure particolare fretta tanto da non voler attendere l'aggiornamento periodico)
 
 - rigenera la versione statica e senza attendere il prossimo aggiornamento periodico,
 - forza la sincronizzazione immediata
